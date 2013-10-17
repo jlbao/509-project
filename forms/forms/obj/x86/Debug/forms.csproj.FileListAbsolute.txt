@@ -1,0 +1,10 @@
+C:\Users\jbao2\Desktop\project\forms\forms\bin\Debug\forms.exe
+C:\Users\jbao2\Desktop\project\forms\forms\obj\x86\Debug\forms.Form1.resources
+C:\Users\jbao2\Desktop\project\forms\forms\obj\x86\Debug\forms.Properties.Resources.resources
+C:\Users\jbao2\Desktop\project\forms\forms\obj\x86\Debug\forms.csproj.GenerateResource.Cache
+C:\Users\jbao2\Desktop\project\forms\forms\obj\x86\Debug\forms.exe
+C:\Users\jbao2\Desktop\project\forms\forms\obj\x86\Debug\forms.pdb
+C:\Users\jbao2\Desktop\project\forms\forms\bin\Debug\forms.pdb
+C:\Users\jbao2\Desktop\project\forms\forms\obj\x86\Debug\forms.AddNewPoint.resources
+C:\Users\jbao2\Desktop\project\forms\forms\obj\x86\Debug\forms.Graph.resources
+C:\Users\jbao2\Desktop\project\forms\forms\obj\x86\Debug\forms.csprojResolveAssemblyReference.cache
