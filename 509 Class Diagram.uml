@@ -1844,12 +1844,6 @@
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="jGyGkZPcaUG1Ym1zeA5IJgAA">
 <XPD:ATTR name="Name" type="string">Model</XPD:ATTR>
 <XPD:REF name="Owner">QJNGm2kL6kGkR0mWy+BvkwAA</XPD:REF>
-<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="zMObA7BN10OaLSypyXruhAAA">
-<XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
-<XPD:REF name="BehavioralFeature">jGyGkZPcaUG1Ym1zeA5IJgAA</XPD:REF>
-</XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="VMUGGeJkZECB8G17QCHw0gAA">
 <XPD:ATTR name="Name" type="string">switchGraph</XPD:ATTR>
